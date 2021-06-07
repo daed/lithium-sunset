@@ -1,6 +1,3 @@
-@Author: Brad Arnett
-@Note: Donate if you like this project!
-
 # Welcome to Lithium Sunset!
 
 Lithium Sunset is a free cyberpunk role-playing system born out of a need for a system that's modern, accessible, and streamlined.
