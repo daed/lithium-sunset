@@ -1,3 +1,4 @@
+<div markdown="1" style="background-color: white">
 <img style="filter: invert(17%) sepia(90%) saturate(5999%) hue-rotate(275deg) brightness(105%) contrast(136%);"  src="img/logo.svg" />
 
 # Welcome to Lithium Sunset!
@@ -10,3 +11,5 @@ All of the primary game content (except where otherwise stated) is licensed unde
 ## An Introduction
 
 The Lithium Sunset roleplaying game is focused on allowing you to generate a story that takes place in a believable near-future world that has suffered under a combination of rapid social upheaval and technological development that has outpaced laws and ethics.  Like other roleplaying games, Lithium Sunset is theatre of the mind.  The sprawling forests of massive skyscrapers, the barren wastelands beyond them, and abject poverty of those caught between the two, are just a backdrop to whatever you can imagine.
+
+</div>
