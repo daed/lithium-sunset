@@ -5,11 +5,50 @@
 
 ## Rules of Engagement
 
-## Turns
+### Turns and Duration
 
-Combat is divided into turns during which each participant gets to act once.  A turn is 10 seconds long in the game world.  The GM should have each player declare their actions.  This doesn't need to be done in any particular order, and players can be skipped and come back to if they need more time to decide.
+A combat scenario is divided into turns during which each participant gets to act once.  A turn is 5 seconds long in the game world.  When combat begins, the first turn happens, and turns continue until combat ends.
 
-After each player has declared their actions, the GM should then describe the outcome, asking players to roll skill tests or attacks as needed.
+These rules are intended for use in "combat", though they can also be used in other situations.  If there is a situation where your game would benefit from the granularity of a turn-based game, then use these until it makes sense not to.
+
+When a duration is measured in turns, assume that the duration begins the first turn after it was started.  For example, if a character used a stim that gave a bonus for a single turn, then it would give that bonus for the next turn. 
+
+### Actions
+
+An Action is a deliberate activity that a character performs within their part of a combat turn.  This activity could be anything that a person could reasonably do in less than five seconds.  Some common examples are below:
+
+- Walk 20 feet
+- Run 40 feet
+- Climb a 3 meter ladder
+- Make a running jump
+- Attack someone
+- Pick up an object from the ground
+- Retrieve an item from a container
+
+Some actions can be combined.  A character can walk 10 feet and perform most actions still, and it's possible to drop something while running.  All actions listed in the Interrupted Actions section can happen while performing another action.
+
+The GM should have each player declare their actions.  This doesn't need to be done in any particular order, and players can be skipped and come back to if they need more time to decide.
+
+After each player has declared their actions, the GM should then describe the outcome, asking players to roll skill tests or attacks as needed.  Situations where two characters are trying to do something mutually exclusive should be resolved with opposed skill tests.
+
+Generally each action is assumed to happen at the same time, however, this might not always make sense as some actions are generally going to happen faster than others.  The GM should decide if any actions might preempt others.
+
+### Interrupted actions
+
+If your action is interrupted, you can still perform a Quick Action.  These are simple actions that can be done in a second.  Some examples of Quick Actions include:
+
+- Drawing a weapon or other item from a dedicated storage location (i.e. holster)
+- Letting go of an object held in hand.
+- Communicating with others.
+- Going prone.  This allows dodge rolls against any other attacks made this round.
+
+
+<div class="sidebar" markdown="1">
+### Example Encounter
+
+Zeven rounds a corner in a hallway and comes face to face with a security guard.  Combat begins, and then Zeven shoots at the guard while the guard attempts to run over to hit an alarm button on the wall.  The GM decides that Zeven's shot could stop the guard before he got to the alarm, so the GM asks Zeven to roll her attack.  Zeven rolls and shoots the guard in the leg, dropping him to the ground.  The GM decides that the guard can't hit the button, but he's not dead.  Instead, he lets out a loud yell for help and draws his pistol.
+
+</div>
 
 ## Attacking
 
@@ -45,9 +84,6 @@ If a target is both, not threatened and also completely unaware of the attacker'
 |Target is in darkness or dim light|-1
 |Target is lying prone|-1
 |Firing a called shot|-2
-
-
-
 
 ### Determining where you hit
 To determine what hitbox is damaged, roll 2d6 and compare the chart for your attack type:
