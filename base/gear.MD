@@ -235,3 +235,5 @@ n/a
 n/a
 
 ### Item Qualities
+
+See [Gear Qualities](gear_qualities)

@@ -5,10 +5,11 @@
 
 ## Rules of Engagement
 
-
 ## Turns
 
-Combat is divided into turns, during which each participant gets to act once.  A turn is 10 seconds.  
+Combat is divided into turns during which each participant gets to act once.  A turn is 10 seconds long in the game world.  The GM should have each player declare their actions.  This doesn't need to be done in any particular order, and players can be skipped and come back to if they need more time to decide.
+
+After each player has declared their actions, the GM should then describe the outcome, asking players to roll skill tests or attacks as needed.
 
 ## Attacking
 
@@ -89,4 +90,6 @@ Roll 2d6 and consult the chart below.  If your roll matches the called location,
 </div>
 </div>
 That location is then hit by the weapon and does whatever damage is listed in the weapons profile, first to whatever armor the targeted character is wearing in that location, and then to the character itself.  Most weapons deal a single point of damage, though certain weapons may do more damage under certain circumstances.
+
+
 
