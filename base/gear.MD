@@ -162,6 +162,7 @@ Cyberdecks must be physically connected to a datajack to function.  They must al
 <div class="sidebar" markdown="1">
 ### Cyberdeck Mods
 These are special ways of getting modifications put onto any existing cyberdeck.  The price listed is in addition to the cost of the cyberdeck itself.
+
 |Special modifications|Qualities|Price|
 |---------------------|-----|---|
 |Add bulletproof to cyberdeck|Bulletproof|100,000c|
@@ -210,7 +211,7 @@ By constantly scanning the signal and running code on a simulated ‘brain’, t
 
 As comsticks and unmodified Simulation Units already have safeguards built into them, carrying one of these around almost immediately identifies a person as a decker.  Virtually all authorities across the world consider possession of these tools illegal, and will punish a user in accordance with jurisdiction.  This is often incarceration at a minimum.  Licensing for such tools is frequently available to registered security and military professionals on an as-needed basis.
 
-The quality of the defense barrier determines how much damage can get through before the defense barrier engages and disconnects the wearer.  A defense barrier is a Node can be noticed and Cracked, though by design they are difficult to observe.
+The quality of the defense barrier determines how much damage can get through before the defense barrier engages and disconnects the wearer.  A defense barrier is a Node can be noticed and Cracked, though by design they are difficult to observe and even harder to crack.
 
 |Gear|Qualities|Price|
 |----|---------|-----|
@@ -231,6 +232,7 @@ ICE are software packages that protect server nodes from attack.  They come in t
 
 ### Cybernetics
 n/a
+
 ### Bio-impants
 n/a
 

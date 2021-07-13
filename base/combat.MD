@@ -35,7 +35,7 @@ Generally each action is assumed to happen at the same time, however, this might
 
 ### Interrupted actions
 
-If your action is interrupted, you can still perform a Quick Action.  These are simple actions that can be done in a second.  Some examples of Quick Actions include:
+If your action is interrupted, you can still perform Quick Actions.  These are simple actions that can be done in a second.  Some examples of Quick Actions include:
 
 - Drawing a weapon or other item from a dedicated storage location (i.e. holster)
 - Letting go of an object held in hand.
@@ -46,13 +46,25 @@ If your action is interrupted, you can still perform a Quick Action.  These are 
 <div class="sidebar" markdown="1">
 ### Example Encounter
 
-Zeven rounds a corner in a hallway and comes face to face with a security guard.  Combat begins, and then Zeven shoots at the guard while the guard attempts to run over to hit an alarm button on the wall.  The GM decides that Zeven's shot could stop the guard before he got to the alarm, so the GM asks Zeven to roll her attack.  Zeven rolls and shoots the guard in the leg, dropping him to the ground.  The GM decides that the guard can't hit the button, but he's not dead.  Instead, he lets out a loud yell for help and draws his pistol.
+Zeven rounds a corner in a hallway and comes face to face with a security guard.  Combat begins, and then Zeven shoots at the guard while the guard attempts to run over to hit an alarm button on the wall.  The GM decides that Zeven's shot could stop the guard before he got to the alarm, so the GM asks Zeven to roll her attack.  
+
+Zeven rolls 2d6 and gets 7.  Then she adds her Dexterity (3) along with her Firearms (1) and gets a 11.  She's trying to aim for his leg, so that's a -2 penalty, but the guard is within 20 ft, so that's a +1 bonus.  She adds a total modifier of -1 to the hit and tells the GM she has a 10.  The guard was moving in another direction, so he's going to try to dodge while moving.  He rolls 2d6 and gets a 5.  he adds his Dexterity (3) and his Dodge (1) for a total of 9.  Zeven hits, so she rolls on the chart to make sure she hit him where she wanted to.  She was aiming for his left leg, and rolls 2d6 and gets an 8.  Just enough to pass!
+
+Zeven rolls and shoots the guard in the leg, dropping him to the ground.  The GM decides that the guard can't hit the button, but he's not dead.  Instead, he lets out a loud yell for help and draws his pistol, preparing to take aim at the intruder next turn.
+
+On the next turn, Zeven fires at the guard's head while he takes two shots back at Zeven.  The GM says that both actions occur at the same time, so Zeven rolls 2d6 for her shot and gets 8.  Adding her Dexterity (3) with Firearms (1), she gets a 12.  She's making a called shot again, so she takes a -2 penalty, and an extra -1 for the target being prone, but she still gets the +1 from the target being within a 20 feet, for a total of -2.  The guard cannot dodge since he is already on the floor, and so her total of 10 hits, and the guard takes a bullet to the head.  
+
+Meanwhile, the GM rolls 2d6 for each of the guard's shots and gets 11 and 10.  Each one of those gets a +1 modifier from range and a -2 modifier for rapid firing for totals of 10 and 9.  Zeven will drop to the ground as she's firing so she can dodge.  She rolls 5 on 2d6 and adds her Dexterity (3) along with Dodge (1) for a total of 9.  She dodged one bullet, but got hit by the other one.  The GM rolls 2d6 and determines that the guard shot her in her left arm.
+
+She marks a point of damage down on her arm.  Any skills she has to perform with that arm will now be at half their normal bonus until she can heal the damage or find some painkillers.  The guard is much worse off and must now make a ```Blackout (Fortitude) 12``` Test.  He gets 5 on 2d6 and adds his Fortitude (3) along with his Blackout skill (2).  He only gets a 10, and so the pain is too much for him, and he goes into shock.  He is now in critical condition and at risk of death.
+
+Zeven looks at her mangled arm and curses.  After a brief glance down the corridor, she picks her pace up to a hustle, concerned that the gunshots wouldn't go unnoticed.  A handful of moments later, her hustle shifts into a sprint as the alarms start going off.
 
 </div>
 
 ## Attacking
 
-There are a few basic steps to any combat:
+There are a few basic steps to any combat turn:
 
   1. Declare target and whether the attack is a 'called shot'.
   2. Roll an attack test with the chosen weapon
@@ -69,7 +81,7 @@ The targeted character can actively attempt to avoid getting hit.  They can do t
 <div class="sidebar" markdown="1">
 ### Never saw it coming
 
-If a target is both, not threatened and also completely unaware of the attacker's presence, then the attacker will do two points of damage on a successful hit instead of one.  This damage can be reduced by armor or other effects.
+If a target is both, not threatened and also completely unaware of the attacker's presence, then the attacker will do two points of damage on a successful hit instead of one.  This damage can still be reduced by armor or other effects.
 
 </div>
 
@@ -83,7 +95,8 @@ If a target is both, not threatened and also completely unaware of the attacker'
 |At least 50% of the target is not visible|-1
 |Target is in darkness or dim light|-1
 |Target is lying prone|-1
-|Firing a called shot|-2
+|Firing a called shot|-2|
+|Firing multiple shots per round| -2 (per shot) |
 
 ### Determining where you hit
 To determine what hitbox is damaged, roll 2d6 and compare the chart for your attack type:
@@ -117,9 +130,9 @@ Roll 2d6 and consult the chart below.  If your roll matches the called location,
 
 | 2d6 roll |Hitbox location* |
 |-----|----------------|
-|10-12  | Head 
-|9-12 | Any Arm
-|9-12 | Any Leg
+|9-12  | Head 
+|8-12 | Any Arm
+|8-12 | Any Leg
 |11-12 | Groin
 
 \* If roll doesn’t match the called location, the torso is hit instead.

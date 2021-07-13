@@ -11,7 +11,7 @@ Bulletproof objects are designed to take a hit and keep going.  A bulletproof ob
 
 #### Cheap
 
-This item is a notoriously cheap model.  It looks cheap, it feels cheap, it is covered in cheap brand logos.  There’s a particular scene out there for this kind of look, but it’s probably going to leave most people unimpressed.
+This item is a notoriously cheap model.  It looks cheap, it feels cheap, and it is covered in cheap brand logos.  There’s a particular scene out there for this kind of look, but it’s probably going to leave most people unimpressed.
 
 #### Durable
 
@@ -19,13 +19,13 @@ Durable objects have been ruggedized.  They are never at risk of breaking from e
 
 #### High-maintenance
 
-High-maintenance equipment requires a lot of adjustment and tends to be temperamental.  Any time a roll of 2 comes up on a skill test using a high-maintenance item, then the GM determines some way in which the equipment glitches out.  Generally this should be something distracting or annoying, but not necessarily debilitating.
+High-maintenance equipment requires a lot of adjustment and tends to be temperamental.  Any time a roll of 2 or 3 comes up on a skill test using a high-maintenance item, then the GM determines some way in which the equipment glitches out.  Generally this should be something distracting or annoying, but not necessarily debilitating.
 
 #### Hip
 
 THIS is the thing to have right now!  It is IN.  It’s been the thing since ```<celebrity name>``` started usi-- oh nevermind, she just got a new one.  It’s so yesterday.
 
-Hip items impress people.  They’re expensive, well-designed, and carry a solid look that is timeless.  Completely timeless… until it’s not.  After you have owned this item for a month, it loses the attribute hip.
+Hip items impress most people.  They’re expensive, well-designed, and carry a solid look that is timeless.  Completely timeless… until it’s not.  After you have owned this item for a month, it loses the attribute hip.
 
 #### Illegal
 
@@ -37,11 +37,11 @@ This low-cost equipment is secretly subsidized by monitoring the usage of the de
 
 #### Overt
 
-This gear is not subtle.  Whenever using it for its intended purpose, it is almost impossible to conceal.  Overt Armor won’t fit under any other clothes without looking suspicious.  Overt Electronics make noise and set off alarms.  There is no staying under the radar once Overt gear is in play.
+This gear is not subtle.  Whenever using it for its intended purpose, it is almost impossible to conceal.  Overt Armor won’t fit under any other clothes without looking suspicious.  Overt Electronics are bulky, make noise, and set off alarms.  There is no staying under the radar once Overt gear is in play.
 
 #### Poor-Construction
 
-However much you paid for this, it was too much.  It might not even have been Cheap.  But it’s flimsy and the corner is already snapped and it just barely works.  If you drop it, it’ll break.  If the hitbox it’s in (i.e. something in your hand or on your face) takes damage, it’ll break.  If it gets more than a tiny bit wet, it will break.  
+However much you paid for this, it was too much.  It might not even have been Cheap, but it’s flimsy and the corner is already snapped and it just barely works.  If you drop it, it’ll break.  If the hitbox it’s in (i.e. something in your hand or on your face) takes damage, it’ll break.  If it gets more than a tiny bit wet, it will break.  
 
 #### Unavailable
 

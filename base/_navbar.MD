@@ -7,11 +7,23 @@
 - [Traits](traits)
 - [Gear](gear)
 - [Gear Qualities](gear_qualities)
+- [Contacts](contacts)
 
 #### grid://base/world_
+<div markdown="1" style="margin-left:px">
 
 - [Timeline](timeline)
 - [Grid](grid)
+- [Freelancing](freelancing)
+- [Locations](locations)<div markdown="1" style="margin-left:-20px">
+  - [Portland](portland)
+  - [Phoenix](phoenix)
+  - [Chicago](chicago)
+  - [New Orleans](new_orleans)
+  - [Outskirts](outskirts)
+
+</div>
+</div>
 
 #### grid://base//meta_
 

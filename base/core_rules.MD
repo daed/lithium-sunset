@@ -176,7 +176,7 @@ At zero hit points remaining, a hitbox is too hurt to use properly.  All skill t
 
 Some hitboxes are more sensitive to injury than others.  
 
-A head, torso, or groin at zero hit points requires the character to pass a Blackout (Fortitude) 12 test every minute to stay conscious.  (A character with a hitbox at negative hitpoints doesn’t need to make an additional test for this because they will also need to make one per the rules below).  
+A head or groin injury requires the character to pass a Blackout (Fortitude) 12 test to stay conscious.  (A character with a hitbox at negative hitpoints doesn’t need to make an additional test for this because they will also need to make one per the rules below).  
 
 A groin at negative hit points increases the difficulty of the Blackout test by 1.  This permanent injury may also inflict severe trauma not reflected here.
 
