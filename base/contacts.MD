@@ -24,7 +24,7 @@ Relationship is how well the player's character and the contact are getting alon
 <div class="sidebar" markdown="1">
 ### Contacting Contacts
 
-Sara Tonen reclined on her couch and watched her world go fuzzy for a second as the trode-net over her hair bounced and resettled in place.  Once her eyes refocused, she opened a vidchat with Stefan, a wageslave who works at the regional corporate surveying office.  *With any luck, he'd be able to find her the blueprints for the office*, she thought.  A square popped up in the corner of her vision with his face in it.  His name appeared below.  "Hey Stefan, what're you doing tomorrow night?", she asked.  
+Sara Tonen threw herself onto her couch and watched her world go fuzzy for a second as the trode-net over her hair bounced and resettled in place.  Once her eyes refocused, she opened a vidchat with Stefan, a wageslave who works at the regional corporate surveying office.  *With any luck, he'd be able to find her the blueprints for the office*, she thought.  A square popped up in the corner of her vision with his face in it.  His name appeared below.  "Hey Stefan, what're you doing tomorrow night?", she asked.  
 
 "Sara, it's been ages!  Whacha got in mind?"  *He sounded tired, but excited.  Good.*  
 
@@ -62,7 +62,7 @@ When it comes time to see if the Contact is capable of providing the request, ro
 |inconsequential |common dealer stock, asking to meet, basic questions| 5 |
 |straightfoward |special orders, getting decent jobs, basic research | 7  |
 |difficult |custom orders, finding the good jobs, intermediate research, decking | 10 |
-|complex and dangerous| works of art, field-changing research, discovering deeply buried secrets|15|
+|complex and dangerous| works of art, field-changing research, discovering deeply buried secrets|>=15|
 
 ## Helping them
 

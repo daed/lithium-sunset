@@ -1,3 +1,6 @@
+@Author: Brad Arnett
+@Note: Donate if you like this project:
+
 # So You Wanna Be Your Own Person
 
 You do work for the highest bidder.  You might have standards or you might not, but your neighbors certainly hope you do.  You work "infrequent and odd" jobs, just as needed.

@@ -27,6 +27,7 @@
 
 #### grid://base//meta_
 
+- [Odds and Probabilities](odds)
 - [Style Test](style_test)
 - [Credits](_attribution)
 

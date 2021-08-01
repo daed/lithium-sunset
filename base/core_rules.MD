@@ -31,8 +31,6 @@ Here are some example values for a Strength score and what they imply about the 
 
 </div>
 
-
-
 #### Strength
 Represents:  Athleticism, raw physical power
 
@@ -98,7 +96,6 @@ Associated Skills:
   - Crack (cyber-lockpicking)
   - Lurk (cyber-stealth)
   - Operate (manipulate complex program)
-
 
 #### Charm
 Represents:  Presence, Persuasion, Confidence
@@ -248,7 +245,6 @@ Delay a source of death for one round (automatic if the player’s character is 
 Unless otherwise stated, only one Verve may be spent per player per game session.  The only regular exception to this is when spending Verve to delay death; this is done automatically and only stops when the character runs out of Verve or is resuscitated by another character.
 
 Verve is a powerful and useful means of injecting a twist into the game.  It should not be used lightly, and the player and GM should work together to develop a reason this surprise outcome occurred.  Additional Verve may be awarded by a GM for achieving major milestones, good role-playing, or other reasons, though a character should never have more than 2 Verve total at any time.
-
 #### Traits
 
 Players acquire traits that are modifiers on the character that represent physical changes, social obligations, or karmic fluctuations.  Traits can be bought (during character creation or advancement) or earned.  Some traits provide bonuses or alter abilities.  Not all traits are positive though, and they include negative qualities such as missing limbs or other lingering malalignments.  You may select a positive quality at character start.
