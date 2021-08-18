@@ -174,7 +174,7 @@ You spent weeks scrounging the parts for a deck of your own, and now you’ve fi
 
 SPECIAL: A character can elect to invest some cash into their Frankendeck by getting some designer aftermarket components and improving their style.  These upgrades cost 75,000 credits.  In doing this, the Frankendeck loses the cheap quality.
 
-SPECIAL:  A character can elect to upgrade their DIY Frankendeck by taking time to diagnose and replace trouble components, upgrade the fans, and checke seals and heatsinks.  These upgrades cost 125,000 credits.    In doing this, the Frankendeck loses the high-maintenance quality.
+SPECIAL:  A character can elect to upgrade their DIY Frankendeck by taking time to diagnose and replace trouble components, upgrade the fans, and check seals and heatsinks.  These upgrades cost 125,000 credits.    In doing this, the Frankendeck loses the high-maintenance quality.
 
 #### Accessories
 Accessories are used to augment the function of a Comstick or Cyberdeck.

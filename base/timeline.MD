@@ -1,7 +1,6 @@
 @Author: Brad Arnett
 @Note: Donate if you like this project:
 
-# A Brief History Brief
 ## Timeline of the Perpetual Age
 
 2010 - Internet hits peak worldwide adoption rate
@@ -13,7 +12,7 @@
 2025 - American Civil War begins, plunges the world into chaos
 2031 - Reality Breakdown Research initiated by Venturian Group
 2034 - Schism War erupts following cryptocurrency collapse
-2045, April 23rd - The start of the game
+2045 - April 23rd - The start of the game
 
 ## So It Goes
 *Anyone who told you that they couldn’t see the end coming has never been more wrong in their lives.  They just didn’t want to admit that this was all it took to push us over the brink.  The end started with unaddressed socio-economic tensions leading up to political dissent, threw in a viral explosion that was ignored and downplayed every step of the way, and then ended with the American Civil War.  It was a three-course apocalypse shoved straight down our throats, and we special ordered it super-size.*
