@@ -15,6 +15,7 @@
 - [Timeline](timeline)
 - [Grid](grid)
 - [Freelancing](freelancing)
+- [Corporations](corporations)
 - [Hazards](hazards)
 - [Locations](locations)<div markdown="1" style="margin-left:-20px">
   - [Portland](portland)
