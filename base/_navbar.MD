@@ -13,16 +13,18 @@
 <div markdown="1" style="margin-left:px">
 
 - [Timeline](timeline)
-- [Grid](grid)
+- [Living](living)
+- [The Grid](grid)
 - [Freelancing](freelancing)
+- [Organizations](organizations)
 - [Corporations](corporations)
 - [Hazards](hazards)
 - [Locations](locations)<div markdown="1" style="margin-left:-20px">
   - [Portland](portland)
-  - [Phoenix](phoenix)
-  - [Chicago](chicago)
-  - [New Orleans](new_orleans)
-  - [Outskirts](outskirts)
+  - ~~[Phoenix](phoenix)~~
+  - ~~[Chicago](chicago)~~
+  - ~~[New Orleans](new_orleans)~~
+  - ~~[Outskirts](outskirts)~~
 
 </div>
 </div>

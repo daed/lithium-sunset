@@ -191,13 +191,15 @@ The player may (if conscious) ignore bleeding out for a round by taking no other
 
 The wounded character (or an ally) may apply first aid to stop the bleeding.  If this is done then the character is not at risk for bleeding out any more until they take another point of damage.  See the Healing skill description for more information.
 
+### Money
+
 ### Character Creation
 
 ```NOTE: This is a basic method of generating a average character, fresh faced and ready to go.  This character creation process is a little static, but I will hopefully be able to improve on it as time goes on. ```
 
 #### Bonus Points
 
-All characters have 5 bonus points.  They may spend these freely throughout the character creation process to further customize their characters beyond the defaults.  Rules for using them will be detailed in each section.  Any bonus points not spent at the end are converted into credits at 200 credits per bonus point.
+All characters have 5 bonus points.  They may spend these freely throughout the character creation process to further customize their characters beyond the defaults.  Rules for using them will be detailed in each section.
 
 #### Attributes
 
@@ -248,3 +250,4 @@ Verve is a powerful and useful means of injecting a twist into the game.  It sho
 #### Traits
 
 Players acquire traits that are modifiers on the character that represent physical changes, social obligations, or karmic fluctuations.  Traits can be bought (during character creation or advancement) or earned.  Some traits provide bonuses or alter abilities.  Not all traits are positive though, and they include negative qualities such as missing limbs or other lingering malalignments.  You may select a positive quality at character start.
+

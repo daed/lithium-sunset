@@ -24,11 +24,11 @@ n/a
 
 |Gear|Qualities|Price|
 |----|---------|-----|
-|First Aid Kit|  | 10000p |
-|Trauma Pack|   | 30000p |
-|Dermal healing patch |    |15000p|
-|Stimulant Injector, Awake|  |5000p|
-|Stimulant Injector, Rampage|Illegal|20000p|
+|First Aid Kit|  | |
+|Trauma Pack|   | |
+|Dermal healing patch |    ||
+|Stimulant Injector, Awake|  ||
+|Stimulant Injector, Rampage|Illegal||
 
 ### Weapons
 
@@ -154,7 +154,7 @@ Cyberdecks must be physically connected to a datajack to function.  They must al
 
 |Gear|Qualities|Price|
 |----|---------|-----|
-|DIY Frankendeck|Cheap, high-maintenance|50,000c|
+|DIY Frankendeck|Cheap, high-maintenance||
 |Panasonic Grid Dervish ST-2|High-maintenance|150,000c|
 |Defiance Technologies DataMonitor MK.b|Waterproof, durable, bulletproof|250,000c|
 |Phillips GridGuard One|Waterproof, durable, hip|300,000c|

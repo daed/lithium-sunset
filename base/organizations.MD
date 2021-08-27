@@ -28,3 +28,9 @@ SPARTAN is a loosely affiliated collection of small organizations and clubs acro
 SPARTAN seeks the restoration of the former power and control of the US government.  Broad goals and sentiment are disseminated through propaganda channels publicly registered as "Fiction/Entertainment", while specific plans are discussed in private vidchats and on encrypted nodes.  The propaganda channels are then bankrolled through the individual members of the club, keeping them funded for any legal battles brought against them for slander or harassment.
 
 SPARTAN actively generates and propagates misinformation.  The misinformation may be about any topic, and does not need to be internally consistent, though it will typically be laced with varying degrees of racial or nationalist overtones.  This is done to advance their agenda while eroding overall trust in the Grid.  People often dismissively accuse them of wanting to "violently turn back the clock to the 20th century."
+
+##### Cult of the Now
+
+The Cult of the Now, whose members are typically referred to as "Nowists" is a quasi-religious organization who preaches better living through specific lifestyle changes.  They claim that the Grid (and the Internet before it) are distractions from Prime Reality.  The Grid is perverse because it entreats the mind while fully bypassing the body.  This causes the mind to develop in ways that cease being harmonious with the body, which causes instability and illness, and ultimately a deprivation of spirit.  The Nowists believe that humanity's dependence on the Grid is causing a death of subjective experience, which is necessary for cultures to thrive.
+
+Between the war, famine, oppression, pollution, and heat, it's unsurprising that they're not more popular at parties.
