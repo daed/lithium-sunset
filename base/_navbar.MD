@@ -21,10 +21,10 @@
 - [Hazards](hazards)
 - [Locations](locations)<div markdown="1" style="margin-left:-20px">
   - [Portland](portland)
-  - ~~[Phoenix](phoenix)~~
-  - ~~[Chicago](chicago)~~
-  - ~~[New Orleans](new_orleans)~~
-  - ~~[Outskirts](outskirts)~~
+  - <s>[Phoenix](phoenix)</s>
+  - <s>[Chicago](chicago)</s>
+  - <s>[New Orleans](new_orleans)</s>
+  - <s>[Outskirts](outskirts)</s>
 
 </div>
 </div>
