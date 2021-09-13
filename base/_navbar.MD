@@ -2,7 +2,7 @@
 
 - [Introduction](index)
 - [Core Rules](core_rules)
-- [Character Creation](character_creation)
+- [Character Creation](character_creat)
 - [Character Traits](traits)
 - [Combat](combat)
 - [Traits](traits)
@@ -21,7 +21,7 @@
 - [Corporations](corporations)
 - [Hazards](hazards)
 - [Locations]
-<div markdown="1" style="margin-left:-20px">
+<div markdown="1" style="margin-left:20px">
   - [Portland](world_portland)
   - [Phoenix]()
   - [Chicago]()

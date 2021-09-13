@@ -110,7 +110,8 @@ A called shot is different than a regular shot.  Hitting even in spite of the pe
 Roll 2d6 and consult the chart below.  If your roll matches the called location, then you hit that hitbox.  If the roll doesn't match, then it becomes a torso shot.
 
 </div>
-
+<div class="clearfix"></div>
+<div class="block-wrapper" markdown="1">
 <div class="flex" markdown="1">
 <div markdown="1">
 **Regular Attack:**
@@ -124,6 +125,7 @@ Roll 2d6 and consult the chart below.  If your roll matches the called location,
 |9-10| Right Leg
 |11  | Right Arm
 |12  | Groin
+</div>
 </div>
 <div markdown="1">
 **Called Shot:**
