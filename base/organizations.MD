@@ -12,13 +12,13 @@ Really sick and they won't take him..."
 
 ## Corporations
 
-Corporations
+See [Corporations](corporations) for now.
 
 ## Other Groups and Organizations
 
 ### Extremists
 
-Toward the end of the Internet Age as Internet adoption hit its peak rate, a strange phenomenon occurred:  Online communities were turning into echo chambers.  This created feedback loops along particular political and philosophical axes that radicalized people toward violent and criminal ends.  The Internet turned into a place of misinformation and distrust, though that didn't slow anyone down.
+Toward the end of the Internet Age as Internet adoption hit its peak rate, a phenomenon occurred:  Online communities were turning into echo chambers.  This created feedback loops along particular political and philosophical axes that radicalized people toward violent and criminal ends.  The Internet turned into a place of misinformation and distrust, though that didn't slow anyone down.
 
 #### Specific Cells
 ##### SPARTAN
@@ -31,6 +31,7 @@ SPARTAN actively generates and propagates misinformation.  The misinformation ma
 
 ##### Cult of the Now
 
-The Cult of the Now, whose members are typically referred to as "Nowists" is a quasi-religious organization who preaches better living through specific lifestyle changes.  They claim that the Grid (and the Internet before it) are distractions from Prime Reality.  The Grid is perverse because it entreats the mind while fully bypassing the body.  This causes the mind to develop in ways that cease being harmonious with the body, which causes instability and illness, and ultimately a deprivation of spirit.  The Nowists believe that humanity's dependence on the Grid is causing a death of subjective experience, which is necessary for cultures to thrive.
+The Cult of the Now, whose members are typically referred to as "Nowists" is a quasi-religious organization who preaches better living through specific lifestyle changes.  They claim that the Grid (and the Internet before it) are distractions from Prime Reality.  The Grid is perverse because it entreats the mind while fully bypassing the body.  This causes the mind to develop in ways that cease being harmonious with the body, which causes instability and illness, and ultimately a deprivation of spirit.  The Nowists believe that humanity's dependence on the Grid is causing a death of subjective experience, which is necessary for cultures to thrive.  The more extreme of their group actively sabotage grid infrastructure and will raid offices of corporations who produce Grid gear.
 
 Between the war, famine, oppression, pollution, and heat, it's unsurprising that they're not more popular at parties.
+

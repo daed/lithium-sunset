@@ -48,11 +48,6 @@ Sudden lists!
 - is
 - unordered
 
-1. BUY
-2. TAKE
-3. BREAK
-4. THROW IT AWAY!
-
 Proin pulvinar congue ultrices. Etiam auctor tempus arcu, in condimentum libero egestas sit amet. Duis eros purus, ultrices in rhoncus quis, varius id nunc. Suspendisse a enim vehicula, congue purus accumsan, egestas lectus. Cras ornare quis quam id malesuada. Cras molestie erat ut felis iaculis, hendrerit finibus ante pellentesque. Fusce suscipit aliquam lorem, a sollicitudin leo fringilla eget.
 
 How will it<br>deal with

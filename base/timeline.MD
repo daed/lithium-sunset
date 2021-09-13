@@ -1,6 +1,8 @@
 @Author: Brad Arnett
 @Note: Donate if you like this project:
 
+
+## TODO: I don't like this page and it's very incomplete.  Fix it.
 ## Timeline of the Perpetual Age
 
 2010 - Internet hits peak worldwide adoption rate

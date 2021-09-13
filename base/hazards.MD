@@ -28,9 +28,13 @@ Designer's note:  These events exist as a means to offer explanation to a charac
 
 ## Toxic Gas
 
+Pollutants are a very common thing in the Perpetual Age, and they come in many forms.  A common one is toxic gasses, which range from pollution to radioactive dust clouds.
+
 ## High Voltage
 
+
 ## Machinery
+
 
 ## Active Security
 

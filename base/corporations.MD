@@ -3,6 +3,11 @@
 
 # Corporations
 
+
+
+The following are some of the major corporations that control the operation of the Perpetual Age.
+
+```template```
 Corporation Name:  
 CEO:
 Products and Services: 
@@ -83,3 +88,34 @@ Description:
 Logo:
 
 -------------------------------------------
+
+Corporation Name:  Defiance Tech
+CEO:
+Products and Services: Weapons and military gear, vehicles 
+Known Controversies:
+Description:
+
+Logo:
+
+--------------------------------------------
+
+Corporation Name:  CQB
+CEO:
+Products and Services: Weapons and military gear, vehicles 
+Known Controversies:
+Description:
+
+Logo:
+
+--------------------------------------------
+
+Corporation Name:  Slate
+CEO:
+Products and Services: High End Luxury goods
+Known Controversies:
+Description:  Slate takes products that are popular and releases incredibly high end precision crafted versions of them.  They don't always sell the fastest hardware, but it is compact and durable and lightweight.
+
+Logo:
+
+--------------------------------------------
+

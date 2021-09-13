@@ -19,5 +19,5 @@ That's up to you, but you're risking life and limb, so you better have a good re
 
 You just contact your friendly neighborhood fixer about work who will arrange a meeting between you and a prospective client.  You'll meet with the client and they will explain the details of the job to you, and you'll agree on a payment.  You'll load up with all the knowledge you need to complete the job and everything will turn out great in the end with you getting paid in full and on time.  And that's about the time you wake up and realize that you took three bullets during the job and then the fixer stiffed you and left you for dead.
 
-In reality things don't *always* go that bad, but inevitably something tends to go wrong in even the best laid plans, and improvisation and flexibility in the plan make or break the success of the job.  When this happens, alarms go off, doors turn into walls, and gunfights break out.
+In reality things don't *always* go bad, but something tends to go wrong in even the best laid plans, and improvisation and flexibility in the plan make or break the success of the job.  When this happens, alarms go off, doors turn into walls, and gunfights break out.
 
