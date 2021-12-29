@@ -38,16 +38,6 @@ Sara Tonen threw herself onto her couch and watched her world go fuzzy for a sec
 
 Influence represents how capable the Contact is in whatever their specific expertise is and ranges from 1 to 10.  A fixer with more points in influence can provide better services, including more reliable information and better paying jobs.  A dealer might have better weapons and faster delivery of custom gear.  When needing to determine if a Contact can do something, add this value to whatever to the die roll when making the test.
 
-Included below is a list of contact types.  You may also create your own if there isn't an appropriate type for your contact's expertise.
-
-|type | examples |
-|------------|-----------------|
-|Dealer|                |
-|Fixer|              |
-|Decker |           |
-|Doctor  |                |
-|Expert  |                |
-|Mercenary |              |
 
 ## Getting Help
 
@@ -60,7 +50,7 @@ When it comes time to see if the Contact is capable of providing the request, ro
 |Description |Examples | Test Difficutly |
 |------------|---------|--------|
 |inconsequential |common dealer stock, asking to meet, basic questions| 5 |
-|straightfoward |special orders, getting decent jobs, basic research | 7  |
+|straightfoward |special orders, finding decent contracts, basic research | 7  |
 |difficult |custom orders, finding the good jobs, intermediate research, decking | 10 |
 |complex and dangerous| works of art, field-changing research, discovering deeply buried secrets|>=15|
 
@@ -103,7 +93,7 @@ Beyond being a drug dealer and knowing how to have a good time, he doesn't offer
 **Contact cost:** 5 + relationship points
 **Influence:** 4
 
-Rafael is a decker with a certain amount of renown.  They say he survived getting brain-crashed by ICE three times.  He claims the secret to his success is that he synchronizes music to his heartbeat.  The doctors are not so sure.
+Rafael is a decker with a certain amount of renown.  They say he survived getting brain-crashed by ICE three times.  He claims the secret to his success is that he synchronizes music to his heartbeat.  The doctors are a little doubtful.
 
 Rafael is in it for the cause.  He blames corporations for the environmental destruction that ruined his hometown, and now works to expose and stop their continued damage to what's left of the world.  Rafael will always consider helping any Freelancer who is trying to stop a corporation from causing harm to the environment.  In these cases, treat your relationship with him as being one higher than it is.
 
@@ -132,10 +122,15 @@ She is a competent fixer and a skilled information broker, and always knows wher
 <div style="margin: 24px; max-width: 40%; min-width: 400px" markdown="1">
 
 #### Zeven
+
 **Real Name:** Zeven Butler
+
 **Grid Handle:** zerebous7
+
 **Female, age 24**
+
 **Contact cost:** 4 + relationship points
+
 **Influence:** 3
 
 Zeven is a hard as nails Freelance mercenary who grew up on the streets of Chicago.  She spent most of her life bouncing from gang to gang up until she met Sara Tonen at a club one night.  Sara Tonen talked her out of the gang life and into doing mercenary work over drinks, and soon the two were inseparable in their work.
@@ -160,8 +155,12 @@ Her primary expertise is in Firearms and combat.  She also still maintains a few
 
 <div style="margin: 24px; max-width: 40%; min-width: 400px" markdown="1">
 
-#### E-sports junkie
-
+#### 
+**Real Name:** Zeven Butler
+**Grid Handle:** zerebous7
+**Female, age 24**
+**Contact cost:** 4 + relationship points
+**Influence:** 3
 </div>
 
 <div style="margin: 24px; max-width: 40%; min-width: 400px" markdown="1">

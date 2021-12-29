@@ -7,6 +7,10 @@ Players acquire traits that are modifiers on the character that represent physic
 
 ### Positive Traits
 
+These are in no way complete, just ideas.
+
+# TODO: Work on this.
+
 Extra skill point
 
 Extra ability point
@@ -45,7 +49,7 @@ Buttle, or Tuttle? (Typos in *The System* make it harder to get information on t
 
 Obituated (*The System* thinks you are dead, or that you never existed to begin with)
 
-Hot Item (You can select one piece of gear that is Illegal or Unavailable.  This does not make it legal to possess.)
+Hot Item (You can select one piece of gear that is Illegal or Unavailable to add to your inventory.  This does not make it necessarily legal to possess.)
 
 Hotplug (+1 on dumpshock tests.  Don't need a disengage test to Crash yourself)
 

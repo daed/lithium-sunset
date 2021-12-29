@@ -2,13 +2,12 @@
 @Note: Donate if you like this project:
 # Portland
 
-Portland's seen a rough few years, but it's still standing.  Amazon-TimeWarner controls most of Washington State to the north, and long since eyed expansion into Portland.  They maintain a few offices there, but as of yet political control is still in the hands of a local collective.
-
+Portland's seen a rough few years, but it's still standing.  
 ## Notable Events
 
 ## Locations
 
-#### Arcohabs
+#### The Arcohabs
 
 As crime (and the reporting on crime) intensified, 'ArcoHabs' started becoming a prominent fixture in the city.  Designed to safely and efficiently relocate workers closer to their toil while eliminating the messy distractions of the outside world, the Acrohabs are monolithic structures that run three city blocks wide on a side and includes any amenity an average corp drone would need.  Each floor has work offices, cafeterias, gyms, and theaters, with minor variations from floor to floor.  They are a very upscale, sleek, and modern way to live, according to the sales brochures you'll find in the lobby office.
 

@@ -1,19 +1,34 @@
 @Author: Brad Arnett
 @Note: Donate if you like this project:
 
-# A Brief History Brief
-## Timeline of the Perpetual Age
+# Timeline
+## The Perpetual Age
+
+\> filter.run(timeline)
 
 2010 - Internet hits peak worldwide adoption rate
+
 2015 - Internet adoption reaches over 95% in most developed countries
+
 2016 - Unknown actors begin weaponizing the Internet by means of disinformation campaigns
+
 2019 - SARS-CoV-2 is discovered and quickly escalates to a worldwide pandemic
+
 2021 - Conspiracy theories begin breeding a sense of reality skepticism
+
 2023 - COVID evolution forces hard lockdown as vaccines cease being effective
+
 2025 - American Civil War begins, plunges the world into chaos
-2031 - Reality Breakdown Research initiated by Venturian Group
+
 2034 - Schism War erupts following cryptocurrency collapse
-2045, April 23rd - The start of the game
+
+2036 - Corporate Extraterritorial Emergency Jurisdictive Act passed
+
+2040 - Reality Breakdown Research initiated by Venturian Group
+
+2065, April 23rd - The start of the game
+
+\> advanced heuristics have automatically filtered 65,390,725,039,572,014,050,014,875 recorded events during this time.  would you like to see the rest?  (Y/n): _ 
 
 ## So It Goes
 *Anyone who told you that they couldn’t see the end coming has never been more wrong in their lives.  They just didn’t want to admit that this was all it took to push us over the brink.  The end started with unaddressed socio-economic tensions leading up to political dissent, threw in a viral explosion that was ignored and downplayed every step of the way, and then ended with the American Civil War.  It was a three-course apocalypse shoved straight down our throats, and we special ordered it super-size.*

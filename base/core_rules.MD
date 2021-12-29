@@ -9,7 +9,7 @@
 
 ### Abilities and Action Skills
 
-An ability score is a value representing how potent certain attributes of your character are.  Typically these range from 1 to 6, though they can be modified by stims, damage, and special effects.  Human average for each attribute is 3, and over 90% of most humans will be between 2 and 4.  A score lower than 1 leaves a character unconscious until they recover from whatever has cause it, while getting a score higher than 6 is not naturally possible.
+An ability score is a value representing how potent certain attributes of your character are.  Typically these range from 1 to 6, though they can be modified by stims, damage, and special effects.  Human average for each attribute is 3, and over 90% of most humans will be between 2 and 4.  A score lower than 1 leaves a character unconscious until they recover from whatever has caused it, while getting a score higher than 6 is not even unnaturally possible.
 
 The ability score value is used as a bonus to any associated skills, and also serves as a cap for those skills.  A skill value cannot be increased greater than the corresponding ability score.  Unless otherwise stated, bonuses provided to skills do not interact with the skill cap.
 
@@ -22,12 +22,12 @@ Here are some example values for a Strength score and what they imply about the 
 |------|-------------------|
 |  0   | A coma patient in a hospital |
 |  1   | Someone debilitated or permanently bedridden|
-|  2   | A malnourished person who works a desk job |
+|  2   | Extremely underactive person who works a desk job |
 |  3   | Human Average |
 |  4   | Someone who exercises regularly / light cybernetics user |
 |  5   | A dedicated body-builder|
 |  6   | A world-class athlete / very heavy cybernetics user |
-|  7+   | Beyond natural human limits |
+|  7+   | Beyond human limits |
 
 </div>
 
@@ -36,7 +36,9 @@ Represents:  Athleticism, raw physical power
 
 Associated Skills:
 - Brawl weapons (Clubs / Fists / Greatswords)
-- Athletics (Running / Swimming / Climbing)
+- Jumping
+- Climbing
+- Swimming
 - Brute force (smash something open)
 - Big guns (think chaingun)
 - Parry
@@ -185,53 +187,12 @@ At -1 hit points remaining, a hitbox is destroyed or mangled beyond triage.  Thi
 
 #### Bleeding Out
 
-A character with at least two points of damage is at risk of bleeding out.  Each turn they must make an Endurance (Fortitude) 7 test to keep from bleeding out.  Keep track of how many rounds elapse, and increase the difficulty of this check by one each round.  A failure results in another point of damage done to one of the hitboxes (player’s choice).
+A character with at least two points of damage is at risk of bleeding out.  Each turn they must make an Endurance (Fortitude) 6 test to keep from bleeding out.  Keep track of how many rounds elapse, and increase the difficulty of this check by one each round.  A failure results in another point of damage done to one of the hitboxes (player’s choice).
 
 The player may (if conscious) ignore bleeding out for a round by taking no other strenuous action other than walking. This represents the character taking time to apply direct pressure to wounds to slow the bleeding.  Each round spent avoiding bleeding in this way doesn’t increase the difficulty of the Endurance test above.
 
 The wounded character (or an ally) may apply first aid to stop the bleeding.  If this is done then the character is not at risk for bleeding out any more until they take another point of damage.  See the Healing skill description for more information.
 
-### Character Creation
-
-```NOTE: This is a basic method of generating a average character, fresh faced and ready to go.  This character creation process is a little static, but I will hopefully be able to improve on it as time goes on. ```
-
-#### Bonus Points
-
-All characters have 5 bonus points.  They may spend these freely throughout the character creation process to further customize their characters beyond the defaults.  Rules for using them will be detailed in each section.  Any bonus points not spent at the end are converted into credits at 200 credits per bonus point.
-
-#### Attributes
-
-All characters start with 19 points to allocate between attributes.  They may do this as they see fit, though they cannot have more than one attribute outside of the 2-4 range.
-
-One attribute may be increased for 4 bonus points.  This increase may raise an attribute above 4 regardless of the above rule.  This selection may only be taken once regardless of the number of bonus points a character might have.
-
-#### Action Skills
-
-All character start with 10 active skill points.  A character can distribute these skill points between skills however they wish, though they must abide by the ability score cap.
-
-Bonus points may be spent on additional skill points at a rate of 1 bonus point for 1 skill point.  These increases may only be in skills that already have at last one skill point in them.  Up to 5 bonus points may be spent this way.
-
-#### Knowledge Skills
-
-All characters may start with 4 Knowledge skills.  Each Knowledge skill selected at character creation starts with 2 ranks.  These skills may be increased in the game later on.
-
-In addition, a character may select a single language knowledge skill to be their native tongue.  This is a knowledge skill for them with 4 points in it.
-
-Bonus points may be spent on additional skill points at a rate of 1 bonus point for 1 skill point.  Unlike Action Skills, new knowledge skills may be purchased in this way, though they only start at rank 1.  Up to 5 bonus points may be spent this way.
-
-#### Traits
-
-A character may select a single positive trait from the ones allowed from the Traits section.  
-
-A character may gain 5 bonus points by selecting a negative trait from the ones allowed.  This may only happen once.
-
-A second positive trait may be purchased for 5 bonus points.  This selection may only be taken once regardless of the number of bonus points a character might have.
-
-#### Money
-
-A character starts with 20000 credits worth of gear.  Up to 2000 credits may be kept from this amount.  Any unspent credits beyond that are lost.
-
-Bonus points may be spent on additional credits at a rate of 200 credits per bonus point.  Credits bought this way do not count toward the 2000 credit limit above.
 
 ### Character Features
 
