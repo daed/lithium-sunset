@@ -6,6 +6,9 @@
 
 \> filter.run(timeline)
 
+## TODO: I don't like this page and it's very incomplete.  Fix it.
+## Timeline of the Perpetual Age
+
 2010 - Internet hits peak worldwide adoption rate
 
 2015 - Internet adoption reaches over 95% in most developed countries

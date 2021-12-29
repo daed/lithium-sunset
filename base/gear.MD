@@ -24,11 +24,11 @@ n/a
 
 |Gear|Qualities|Price|
 |----|---------|-----|
-|First Aid Kit|  | 10000p |
-|Trauma Pack|   | 30000p |
-|Dermal healing patch |    |15000p|
-|Stimulant Injector, Awake|  |5000p|
-|Stimulant Injector, Rampage|Illegal|20000p|
+|First Aid Kit|  | |
+|Trauma Pack|   | |
+|Dermal healing patch |    ||
+|Stimulant Injector, Awake|  ||
+|Stimulant Injector, Rampage|Illegal||
 
 ### Weapons
 
@@ -139,8 +139,8 @@ Comsticks operate wirelessly, but they also have less throughput and processing 
 |Gear|Qualities|Price|
 |----|---------|-----|
 |Norelco Smoothtalker|Cheap, poor construction, monitored|5000c|
-|Toshiba Cybercommunicator II|Cheap|10,000c|
-|Panasonic Commtech| | 30,000c|
+|Zennit Cybercommunicator II|Cheap|10,000c|
+|Prohaska Commtech| | 30,000c|
 |CQB Arms Inquest|Waterproof, durable, bulletproof|100,000c|
 |Slate Datawatch| Waterproof, durable, hip|100,000c|
 
@@ -154,10 +154,10 @@ Cyberdecks must be physically connected to a datajack to function.  They must al
 
 |Gear|Qualities|Price|
 |----|---------|-----|
-|DIY Frankendeck|Cheap, high-maintenance|50,000c|
+|DIY Frankendeck|Cheap, high-maintenance||
 |Panasonic Grid Dervish ST-2|High-maintenance|150,000c|
 |Defiance Technologies DataMonitor MK.b|Waterproof, durable, bulletproof|250,000c|
-|Phillips GridGuard One|Waterproof, durable, hip|300,000c|
+|Prohaska GridGuard One|Waterproof, durable, hip|300,000c|
 
 <div class="sidebar" markdown="1">
 ### Cyberdeck Mods
@@ -170,11 +170,11 @@ These are special ways of getting modifications put onto any existing cyberdeck.
 </div>
 
 ##### DIY Frankendeck
-You spent weeks scrounging the parts for a deck of your own, and now you’ve finally got it put together.  Sure, the case is Panasonic, the processor is Toshiba, and the neural interface IBM, but it belongs to you.   It’s just as good as any other Cyberdeck (aside from the fact that you need to take it apart once a week to clean it to keep it from overheating).
+You spent weeks scrounging the parts for a deck of your own, and now you’ve finally got it put together.  Sure, the case is Zennit, the processor is Prohaska, and the neural interface IBM, but it belongs to you.   It’s just as good as any other Cyberdeck (aside from the fact that you need to take it apart once a week to keep it from overheating and make adjustments).
 
 SPECIAL: A character can elect to invest some cash into their Frankendeck by getting some designer aftermarket components and improving their style.  These upgrades cost 75,000 credits.  In doing this, the Frankendeck loses the cheap quality.
 
-SPECIAL:  A character can elect to upgrade their DIY Frankendeck by taking time to diagnose and replace trouble components, upgrade the fans, and checke seals and heatsinks.  These upgrades cost 125,000 credits.    In doing this, the Frankendeck loses the high-maintenance quality.
+SPECIAL:  A character can elect to upgrade their DIY Frankendeck by taking time to diagnose and replace trouble components, upgrade the fans, and check seals and heatsinks.  These upgrades cost 125,000 credits.    In doing this, the Frankendeck loses the high-maintenance quality.
 
 #### Accessories
 Accessories are used to augment the function of a Comstick or Cyberdeck.

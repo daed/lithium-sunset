@@ -143,13 +143,13 @@ Her primary expertise is in Firearms and combat.  She also still maintains a few
 
 <div style="margin: 24px; max-width: 40%; min-width: 400px" markdown="1">
 
-#### Low grade hooker
+#### Street hooker
 
 </div>
 
 <div style="margin: 24px; max-width: 40%; min-width: 400px" markdown="1">
 
-#### Escort hooker
+#### Professional "Escort"
 
 </div>
 

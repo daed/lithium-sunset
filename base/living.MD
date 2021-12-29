@@ -3,6 +3,8 @@
 
 # Living
 
+# TODO: This entire page needs work
+
 ## Lifestyles of the Poor and Ethically Questionable
 
 You're not doing this because you're an independently wealthy board member of a corporation.  You're doing this because you have two weeks before rent is due and you don't have enough credits to buy a cup of soycaf.  Maybe it's even worse than that, but maybe not.  Yeah, you might be getting by.  Your situation might even be average, but it isn't good.  Even if it is, you're still only one more unexpected calamity away from becoming those you most fear or pity.

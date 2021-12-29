@@ -13,3 +13,4 @@ All of the primary game content (except where otherwise stated) is licensed unde
 The Lithium Sunset roleplaying game is focused on allowing you to generate a story that takes place in a believable near-future world that has suffered under a combination of rapid social upheaval and technological development that has outpaced laws and ethics.  Like other roleplaying games, Lithium Sunset is theatre of the mind.  The sprawling forests of massive skyscrapers, the barren wastelands beyond them, and abject poverty of those caught between the two, are just a backdrop to whatever you can imagine.
 
 </div>
+
